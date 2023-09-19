@@ -1,0 +1,110 @@
+/* TeamManagement.css */
+
+.super-unique-team-managements {
+  text-align: center;
+}
+
+.super-unique-team-management-titles {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.super-unique-grids-containers {
+  display: flex; /* Change display to flex to make the boxes appear side by side */
+  justify-content: space-between; /* Distribute the boxes with equal space between them */
+  grid-gap: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.super-unique-grid-items {
+  border: 1px solid #ccc;
+  padding: 30px;
+  background-color: #f5f5f5;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 128, 128, 0.1);
+  width: calc(33.33% - 40px); /* Calculate the width to take up 1/3 of the screen minus the gap */
+}
+
+.super-unique-grid-items-title {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.super-unique-player-grids {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 20px;
+  width: 100%;
+}
+
+.super-unique-players-slot {
+  border: 2px solid #36c3b3;
+  padding: 40px;
+  background-color: #a9e3db;
+  color: #333;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 128, 128, 0.1);
+  word-wrap: break-word;
+}
+
+.super-unique-players-slot:hover {
+  transform: scale(1.1);
+  box-shadow: 0 20px 40px rgba(0, 128, 128, 0.3), 0 0 0 6px rgba(54, 195, 179, 0.2);
+}
+
+.super-unique-emptys-slot {
+  border: 2px dashed #ccc;
+  height: 60px;
+  background-color: #f5f5f5;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 128, 128, 0.1);
+}
+
+.super-unique-emptys-slot:hover {
+  transform: scale(1.1);
+  box-shadow: 0 20px 40px rgba(0, 128, 128, 0.3);
+}
+
+/* Center the position boxes */
+.super-unique-position-grid {
+  display: flex;
+  justify-content: center;
+}
+
+/* Styles specific to Guards */
+.super-unique-grid-items-guards {
+  /* Add specific styles for Guards grid items here */
+}
+
+.super-unique-player-grid-guards {
+  /* Add specific styles for Guards player grid here */
+}
+
+/* Styles specific to Forwards */
+.super-unique-grid-items-forwards {
+  /* Add specific styles for Forwards grid items here */
+}
+
+.super-unique-player-grid-forwards {
+  /* Add specific styles for Forwards player grid here */
+}
+
+/* Styles specific to Centers */
+.super-unique-grid-items-centers {
+  /* Add specific styles for Centers grid items here */
+}
+
+.super-unique-player-grid-centers {
+  /* Add specific styles for Centers player grid here */
+}
+
+/* End of the original TeamManagement.css styles */
+
+/* Start of the original FantasyDraft.css styles */
+
+.team-management {
+  /* Place your FantasyDraft styles here */
+}
+
+/* End of the original FantasyDraft.css styles */

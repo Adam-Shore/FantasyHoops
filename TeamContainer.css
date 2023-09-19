@@ -1,0 +1,102 @@
+/* TeamManagement.css */
+
+.super-quirky-team-managements {
+  text-align: center;
+}
+
+.super-quirky-team-management-titles {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.super-quirky-grids-containers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Each box takes 1/3 of the screen */
+  grid-gap: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.super-quirky-grid-items {
+  border: 1px solid #ccc;
+  padding: 30px;
+  background-color: #f5f5f5;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 128, 128, 0.1);
+  width: 90%; /* Take up the entire width of the grid cell */
+}
+
+.super-quirky-grid-items-title {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.super-quirky-player-grids {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Changed to 1 column to stack players vertically */
+  grid-gap: 20px; /* Adjust the spacing between player boxes */
+}
+
+.super-quirky-players-slot {
+  border: 2px solid #36c3b3;
+  padding: 10px;
+  background-color: #a9e3db;
+  color: #333;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 128, 128, 0.1);
+  word-wrap: break-word;
+  width: 80%; /* Take up the entire width of the grid cell */
+  text-align: center;
+  justify-content: center;
+}
+
+.super-quirky-players-slot:hover {
+  transform: scale(1.1);
+  box-shadow: 0 20px 40px rgba(0, 128, 128, 0.3), 0 0 0 6px rgba(54, 195, 179, 0.2);
+}
+
+.super-quirky-emptys-slot {
+  border: 2px dashed #ccc;
+  height: 60px;
+  background-color: #f5f5f5;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 128, 128, 0.1);
+}
+
+.super-quirky-emptys-slot:hover {
+  transform: scale(1.1);
+  box-shadow: 0 20px 40px rgba(0, 128, 128, 0.3);
+}
+
+/* Center the position boxes */
+.super-quirky-position-grid {
+  display: flex;
+  justify-content: center;
+}
+
+/* Styles specific to Guards */
+.super-quirky-grid-items-guards {
+  /* Add specific styles for Guards grid items here */
+}
+
+.super-quirky-player-grid-guards {
+  /* Add specific styles for Guards player grid here */
+}
+
+/* Styles specific to Forwards */
+.super-quirky-grid-items-forwards {
+  /* Add specific styles for Forwards grid items here */
+}
+
+.super-quirky-player-grid-forwards {
+  /* Add specific styles for Forwards player grid here */
+}
+
+/* Styles specific to Centers */
+.super-quirky-grid-items-centers {
+  /* Add specific styles for Centers grid items here */
+}
+
+.super-quirky-player-grid-centers {
+  /* Add specific styles for Centers player grid here */
+}

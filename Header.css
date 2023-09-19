@@ -1,0 +1,69 @@
+/* Add padding to the body to create a gap between the header and edge of the screen */
+body {
+  margin: 0;
+  padding-top: 80px; /* Adjust the value to control the size of the gap */
+}
+
+/* Header Styles */
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px; /* Adjust the padding to create space on the sides */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px; /* Adjust the height as needed */
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 10px;
+  height: 40px;
+}
+
+.app-title {
+  font-size: 30px;
+  color: #a9e3db;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 20px;
+}
+
+.nav-links li:last-child {
+  margin-right: 0;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.2s ease;
+}
+
+/* Change color on hover */
+.nav-links a:hover {
+  color: #cccccc;
+}

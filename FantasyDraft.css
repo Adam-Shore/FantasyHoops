@@ -1,0 +1,232 @@
+/* FantasyDraft.css */
+
+.team-management {
+  text-align: center;
+  padding: 20px;
+}
+
+.scrollable-container {
+  max-width: 1000px;
+  margin-left: 200px;
+  overflow-y: auto; /* Enable vertical scrolling for the player grid */
+  height: 680px; /* Set a fixed height to enable vertical scrolling */
+}
+
+.player-info {
+  position: relative;
+  border: 3px solid #36c3b3;
+  margin: 10px;
+  background-color: #eee;
+  
+}
+
+
+
+table {
+  margin-top: 10px;
+  margin-left: 200px;
+  border-collapse: collapse;
+  
+}
+
+thead td {
+  background-color: #36c3b3;
+  border: 1px solid #ccc;
+}
+
+tbody td {
+  border: 1px solid #ccc; /* Adjust the border color and width as needed */
+  padding: 4px; /* Optional: Add padding for better appearance */
+  background-color: mintcream;
+}
+
+.player-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Optional: Add some margin at the bottom to separate player headers */
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+
+.player-header h3,
+.player-header p {
+  margin: 0;
+}
+
+.player-header h3 {
+  margin-right: 10px;
+  font-size: 28px;
+}
+
+.player-header p {
+  margin-left: 10px; /* Adjust left margin to create space between elements */
+}
+
+.player-header-1 {
+  margin-left: 100px; /* Adjust left margin to create space between elements */
+}
+
+.player-header-2 {
+  font-size: 20px;
+}
+
+.player-header-3 {
+  font-size: 20px;
+}
+
+.blank {
+  width: 130px; /* Adjust the width to fit your blank element */
+  height: 130px; /* Adjust the height to fit your blank element */
+  position: absolute;
+  left: 10px;
+  top: 7px;
+  object-fit: cover;
+  margin-right: 20px; /* Add some space between the picture and the right-stuff */
+  border: 3px solid #36c3b3;
+  
+}
+
+.right-stuff {
+  flex: 1; /* Allow the right-stuff div to occupy the remaining horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.player-grid {
+  display: grid;
+  border: 1px solid #36c3b3;
+  padding: 10px 20px; /* Reduce vertical padding to make the player box smaller and increase horizontal padding */
+  margin-bottom: 20px; /* Add more space between each player box */
+  margin-left: 65px;
+  background-color: #a9e3db;
+  color: #333;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 128, 128, 0.1);
+  white-space: nowrap; /* Prevent text from wrapping to multiple lines */
+  overflow: hidden; /* Hide any overflowing text */
+  text-overflow: ellipsis; /* Show ellipsis for truncated text */
+  width: 1000px;
+  height: 200px; /* Reduced height of the player box */
+}
+
+.player-grid:first-child {
+  margin-top: 20px; /* Add space between the first player box and the top of the scrolling container */
+}
+
+.player-grid:hover {
+  transform: scale(1.1);
+  box-shadow: 0 15px 30px rgba(0, 128, 128, 0.3), 0 0 0 4px rgba(54, 195, 179, 0.2);
+}
+
+/* Styles for the three sections */
+
+/* Left Section */
+.left-section {
+  flex: 1; /* Occupy equal horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  padding: 5px;
+}
+
+.left-section p {
+  margin: 5px 0; /* Adjust the vertical spacing between paragraphs */
+  font-size: 40px; /* Set the font size to make the text smaller */
+}
+
+
+.left-section h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 55px; /* Set the font size to make the text smaller */
+}
+
+/* Middle Section */
+.middle-section {
+  flex: 1; /* Occupy equal horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  padding: 5px;
+}
+
+.middle-section p {
+  margin: 4px 0; /* Adjust the vertical spacing between paragraphs */
+  font-size: 25px; /* Set the font size to make the text smaller */
+}
+
+/* Right Section */
+.right-section {
+  flex: 1; /* Occupy equal horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  padding: 5px;
+}
+
+/* Make text in the right section smaller and closer together */
+.right-section p {
+  margin: 2px 0; /* Adjust the vertical spacing between paragraphs */
+  font-size: 12px; /* Set the font size to make the text smaller */
+}
+
+/* New styles to create grids within each section */
+.left-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column grid within the left section */
+  background-color: #f7d7b9; /* Unique color for left section */
+  padding: 5px;
+}
+
+.middle-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column grid within the middle section */
+  background-color: #c9ebbe; /* Unique color for middle section */
+  padding: 5px;
+}
+
+.right-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column grid within the right section */
+  background-color: #b1d2e2; /* Unique color for right section */
+  padding: 5px;
+}
+
+/* Horizontal alignment of smaller grids within player-grid */
+.player-grid .player-slot {
+  display: flex;
+  /* Adjust the spacing between smaller grids */
+  gap: 10px;
+}
+
+.draft-button-section {
+  flex: 0.5; /* Occupy half of the horizontal space */
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
+  padding: 5px;
+}
+
+/* Draft button style */
+.draft-button {
+  background-color: #DC003C; /* Unique color for the button */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 128, 128, 0.1);
+}
+
+.draft-button:hover {
+  background-color: #FF0046; /* Hover color for the button */
+  transform: scale(1.1);
+  box-shadow: 0 15px 30px rgba(0, 128, 128, 0.3), 0 0 0 4px rgba(54, 195, 179, 0.2);
+}
+}

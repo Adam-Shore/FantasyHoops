@@ -1,0 +1,146 @@
+/* FantasyDraft.css */
+
+.team-management {
+  text-align: center;
+  padding: 20px;
+}
+
+.scrollable-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow-y: auto; /* Enable vertical scrolling for the player grid */
+  height: 500px; /* Set a fixed height to enable vertical scrolling */
+}
+
+.player-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* Divide the player box into three equal columns */
+  border: 1px solid #36c3b3;
+  padding: 10px 20px; /* Reduce vertical padding to make the player box smaller and increase horizontal padding */
+  margin-bottom: 20px; /* Add more space between each player box */
+  margin-left: 65px;
+  background-color: #a9e3db;
+  color: #333;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 128, 128, 0.1);
+  white-space: nowrap; /* Prevent text from wrapping to multiple lines */
+  overflow: hidden; /* Hide any overflowing text */
+  text-overflow: ellipsis; /* Show ellipsis for truncated text */
+  width: 1000px;
+  height: 200px; /* Reduced height of the player box */
+}
+
+.player-grid:first-child {
+  margin-top: 20px; /* Add space between the first player box and the top of the scrolling container */
+}
+
+.player-grid:hover {
+  transform: scale(1.1);
+  box-shadow: 0 15px 30px rgba(0, 128, 128, 0.3), 0 0 0 4px rgba(54, 195, 179, 0.2);
+}
+
+/* Styles for the three sections */
+
+/* Left Section */
+.left-section {
+  flex: 1; /* Occupy equal horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  padding: 5px;
+}
+
+.left-section p {
+  margin: 5px 0; /* Adjust the vertical spacing between paragraphs */
+  font-size: 40px; /* Set the font size to make the text smaller */
+}
+
+
+.left-section h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 55px; /* Set the font size to make the text smaller */
+}
+
+/* Middle Section */
+.middle-section {
+  flex: 1; /* Occupy equal horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  padding: 5px;
+}
+
+.middle-section p {
+  margin: 4px 0; /* Adjust the vertical spacing between paragraphs */
+  font-size: 25px; /* Set the font size to make the text smaller */
+}
+
+/* Right Section */
+.right-section {
+  flex: 1; /* Occupy equal horizontal space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  padding: 5px;
+}
+
+/* Make text in the right section smaller and closer together */
+.right-section p {
+  margin: 2px 0; /* Adjust the vertical spacing between paragraphs */
+  font-size: 12px; /* Set the font size to make the text smaller */
+}
+
+/* New styles to create grids within each section */
+.left-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column grid within the left section */
+  background-color: #f7d7b9; /* Unique color for left section */
+  padding: 5px;
+}
+
+.middle-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column grid within the middle section */
+  background-color: #c9ebbe; /* Unique color for middle section */
+  padding: 5px;
+}
+
+.right-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column grid within the right section */
+  background-color: #b1d2e2; /* Unique color for right section */
+  padding: 5px;
+}
+
+/* Horizontal alignment of smaller grids within player-grid */
+.player-grid .player-slot {
+  display: flex;
+  /* Adjust the spacing between smaller grids */
+  gap: 10px;
+}
+
+.draft-button-section {
+  flex: 0.5; /* Occupy half of the horizontal space */
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
+  padding: 5px;
+}
+
+/* Draft button style */
+.draft-button {
+  background-color: #ff6b6b; /* Unique color for the button */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.draft-button:hover {
+  background-color: #ff4f4f; /* Hover color for the button */
+}

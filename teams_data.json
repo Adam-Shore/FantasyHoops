@@ -1,0 +1,1095 @@
+{
+  
+    "ACU": {
+        "abbreviation": "Abilene Christian",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2000.png&h=200&w=200"
+    },
+    "AF": {
+        "abbreviation": "Air Force",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2005.png&h=200&w=200"
+    },
+    "AKR": {
+        "abbreviation": "Akron",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2006.png&h=200&w=200"
+    },
+    "UA": {
+        "abbreviation": "Alabama",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2453.png&h=200&w=200"
+    },
+    "AAMU": {
+        "abbreviation": "Alabama A&M",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2010.png&h=200&w=200"
+    },
+    "ASU": {
+        "abbreviation": "Arkansas State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2032.png&h=200&w=200"
+    },
+    "ALB": {
+        "abbreviation": "Albany",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/399.png&h=200&w=200"
+    },
+    "AU": {
+        "abbreviation": "Auburn",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2.png&h=200&w=200"
+    },
+    "U of A": {
+        "abbreviation": "Arkansas",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2110.png&h=200&w=200"
+    },
+    "UAPB": {
+        "abbreviation": "Arkansas-Pine Bluff",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2029.png&h=200&w=200"
+    },
+    "USMA": {
+        "abbreviation": "Army West Point",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2272.png&h=200&w=200"
+    },
+    "APSU": {
+        "abbreviation": "Austin Peay",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2046.png&h=200&w=200"
+    },
+    "BSU": {
+        "abbreviation": "Boise State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/68.png&h=200&w=200"
+    },
+    "BU": {
+        "abbreviation": "Butler",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2086.png&h=200&w=200"
+    },
+    "BEL": {
+        "abbreviation": "Belmont",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2057.png&h=200&w=200"
+    },
+    "BCU": {
+        "abbreviation": "Bethune-Cookman",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2065.png&h=200&w=200"
+    },
+    "BC": {
+        "abbreviation": "Boston College",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/103.png&h=200&w=200"
+    },
+    "BGSU": {
+        "abbreviation": "Bowling Green",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/189.png&h=200&w=200"
+    },
+    "BYU": {
+        "abbreviation": "Brigham Young",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2066.png&h=200&w=200"
+    },
+    "UB": {
+        "abbreviation": "Buffalo",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2084.png&h=200&w=200"
+    },
+    "POLY": {
+        "abbreviation": "Cal Poly",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/13.png&h=200&w=200"
+    },
+    "CSUB": {
+        "abbreviation": "Cal State Bakersfield",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2934.png&h=200&w=200"
+    },
+    "CSUF": {
+        "abbreviation": "Fresno State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/278.png&h=200&w=200"
+    },
+    "CSUN": {
+        "abbreviation": "Cal State Northridge",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2463.png&h=200&w=200"
+    },
+    "Cal": {
+        "abbreviation": "California",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/25.png&h=200&w=200"
+    },
+    "CBU": {
+        "abbreviation": "California Baptist",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2856.png&h=200&w=200"
+    },
+    "CAM": {
+        "abbreviation": "Campbell",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2097.png&h=200&w=200"
+    },
+    "CAN": {
+        "abbreviation": "Canisius",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2099.png&h=200&w=200"
+    },
+    "UCA": {
+        "abbreviation": "Central Arkansas",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2110.png&h=200&w=200"
+    },
+    "CCSU": {
+        "abbreviation": "Central Connecticut State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2115.png&h=200&w=200"
+    },
+    "CMU": {
+        "abbreviation": "Central Michigan",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2117.png&h=200&w=200"
+    },
+    "C of C": {
+        "abbreviation": "Charleston",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2127.png&h=200&w=200"
+    },
+    "CSU": {
+        "abbreviation": "Coppin State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2154.png&h=200&w=200"
+    },
+    "CHAR": {
+        "abbreviation": "Charlotte",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2429.png&h=200&w=200"
+    },
+    "UTC": {
+        "abbreviation": "Chattanooga",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/236.png&h=200&w=200"
+    },
+    "UC": {
+        "abbreviation": "Cincinnati",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2132.png&h=200&w=200"
+    },
+    "CIT": {
+        "abbreviation": "Citadel",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2643.png&h=200&w=200"
+    },
+    "CLEM": {
+        "abbreviation": "Clemson",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/228.png&h=200&w=200"
+    },
+    "CCU": {
+        "abbreviation": "Coastal Carolina",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/324.png&h=200&w=200"
+    },
+    "CU": {
+        "abbreviation": "Creighton",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/156.png&h=200&w=200"
+    },
+    "COM": {
+        "abbreviation": "Columbia",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/171.png&h=200&w=200"
+    },
+    "UConn": {
+        "abbreviation": "Connecticut",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2115.png&h=200&w=200"
+    },
+    "COR": {
+        "abbreviation": "Cornell",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/172.png&h=200&w=200"
+    },
+    "DART": {
+        "abbreviation": "Dartmouth",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/159.png&h=200&w=200"
+    },
+    "DAV": {
+        "abbreviation": "Davidson",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=200&w=200"
+    },
+    "DAY": {
+        "abbreviation": "Dayton",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2168.png&h=200&w=200"
+    },
+    "UD": {
+        "abbreviation": "Denver",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2172.png&h=200&w=200"
+    },
+    "DESU": {
+        "abbreviation": "Delaware State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2169.png&h=200&w=200"
+    },
+    "DEP": {
+        "abbreviation": "DePaul",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/305.png&h=200&w=200"
+    },
+    "UDM": {
+        "abbreviation": "Detroit-Mercy",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2174.png&h=200&w=200"
+    },
+    "DU": {
+        "abbreviation": "Drake",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2181.png&h=200&w=200"
+    },
+    "DREX": {
+        "abbreviation": "Drexel",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2182.png&h=200&w=200"
+    },
+    "DUKE": {
+        "abbreviation": "Duke",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&h=200&w=200"
+    },
+    "DUQ": {
+        "abbreviation": "Duquesne",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2184.png&h=200&w=200"
+    },
+    "ECU": {
+        "abbreviation": "East Carolina",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/151.png&h=200&w=200"
+    },
+    "ETSU": {
+        "abbreviation": "East Tennessee State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2193.png&h=200&w=200"
+    },
+    "EIU": {
+        "abbreviation": "Eastern Illinois",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2197.png&h=200&w=200"
+    },
+    "EKU": {
+        "abbreviation": "Eastern Kentucky",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2198.png&h=200&w=200"
+    },
+    "EMU": {
+        "abbreviation": "Eastern Michigan",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2199.png&h=200&w=200"
+    },
+    "EWU": {
+        "abbreviation": "Eastern Washington",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/331.png&h=200&w=200"
+    },
+    "ELON": {
+        "abbreviation": "Elon",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2210.png&h=200&w=200"
+    },
+    "UE": {
+        "abbreviation": "Evansville",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/339.png&h=200&w=200"
+    },
+    "FU": {
+        "abbreviation": "Furman",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/231.png&h=200&w=200"
+    },
+    "FDU": {
+        "abbreviation": "Fairleigh Dickinson",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/161.png&h=200&w=200"
+    },
+    "UF": {
+        "abbreviation": "Florida",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/526.png&h=200&w=200"
+    },
+    "FAMU": {
+        "abbreviation": "Florida A&M",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/50.png&h=200&w=200"
+    },
+    "FAU": {
+        "abbreviation": "Florida Atlantic",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2226.png&h=200&w=200"
+    },
+    "FGC": {
+        "abbreviation": "Florida Gulf Coast",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/526.png&h=200&w=200"
+    },
+    "FIU": {
+        "abbreviation": "Florida International",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2229.png&h=200&w=200"
+    },
+    "FSU": {
+        "abbreviation": "Florida State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/52.png&h=200&w=200"
+    },
+    "FORD": {
+        "abbreviation": "Fordham",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2230.png&h=200&w=200"
+    },
+    "IPFW": {
+        "abbreviation": "Fort Wayne",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2870.png&h=200&w=200"
+    },
+    "GWU": {
+        "abbreviation": "Gardner-Webb",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2241.png&h=200&w=200"
+    },
+    "GMU": {
+        "abbreviation": "George Mason",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2244.png&h=200&w=200"
+    },
+    "GW": {
+        "abbreviation": "George Washington",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/45.png&h=200&w=200"
+    },
+    "GU": {
+        "abbreviation": "Gonzaga",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&h=200&w=200"
+    },
+    "UGA": {
+        "abbreviation": "Georgia",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/59.png&h=200&w=200"
+    },
+    "GSU": {
+        "abbreviation": "Grambling State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2755.png&h=200&w=200"
+    },
+    "GT": {
+        "abbreviation": "Georgia Tech",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/59.png&h=200&w=200"
+    },
+    "GCU": {
+        "abbreviation": "Grand Canyon",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2253.png&h=200&w=200"
+    },
+    "UWGB": {
+        "abbreviation": "Green Bay",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2739.png&h=200&w=200"
+    },
+    "HU": {
+        "abbreviation": "Howard",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/47.png&h=200&w=200"
+    },
+    "UHA": {
+        "abbreviation": "Hartford",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/24.png&h=200&w=200"
+    },
+    "HAR": {
+        "abbreviation": "Harvard",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/108.png&h=200&w=200"
+    },
+    "UH": {
+        "abbreviation": "Hawaii",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2294.png&h=200&w=200"
+    },
+    "HP": {
+        "abbreviation": "High Point",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2272.png&h=200&w=200"
+    },
+    "HOF": {
+        "abbreviation": "Hofstra",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2275.png&h=200&w=200"
+    },
+    "HC": {
+        "abbreviation": "Holy Cross",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/107.png&h=200&w=200"
+    },
+    "U of H": {
+        "abbreviation": "Houston",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png&h=200&w=200"
+    },
+    "HCU": {
+        "abbreviation": "Houston Christian",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2277.png&h=200&w=200"
+    },
+    "U of I": {
+        "abbreviation": "Illinois",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png&h=200&w=200"
+    },
+    "ISU": {
+        "abbreviation": "Iowa State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=200&w=200"
+    },
+    "UIC": {
+        "abbreviation": "Illinois-Chicago",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png&h=200&w=200"
+    },
+    "UIW": {
+        "abbreviation": "Incarnate Word",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2916.png&h=200&w=200"
+    },
+    "IU": {
+        "abbreviation": "Indiana",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/84.png&h=200&w=200"
+    },
+    "IC": {
+        "abbreviation": "Iona",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/314.png&h=200&w=200"
+    },
+    "UI": {
+        "abbreviation": "Iowa",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=200&w=200"
+    },
+    "IUPUI": {
+        "abbreviation": "IUPUI",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/85.png&h=200&w=200"
+    },
+    "JSU": {
+        "abbreviation": "Jacksonville State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/55.png&h=200&w=200"
+    },
+    "JAC": {
+        "abbreviation": "Jacksonville",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/294.png&h=200&w=200"
+    },
+    "JMU": {
+        "abbreviation": "James Madison",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/256.png&h=200&w=200"
+    },
+    "KU": {
+        "abbreviation": "Kansas",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&h=200&w=200"
+    },
+    "KSU": {
+        "abbreviation": "Kent State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2309.png&h=200&w=200"
+    },
+    "KENN": {
+        "abbreviation": "Kennesaw State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/338.png&h=200&w=200"
+    },
+    "UK": {
+        "abbreviation": "Kentucky",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2198.png&h=200&w=200"
+    },
+    "LU": {
+        "abbreviation": "Lindenwood",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2815.png&h=200&w=200"
+    },
+    "LC": {
+        "abbreviation": "Lafayette",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/322.png&h=200&w=200"
+    },
+    "LIB": {
+        "abbreviation": "Liberty",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2335.png&h=200&w=200"
+    },
+    "LIP": {
+        "abbreviation": "Lipscomb",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/288.png&h=200&w=200"
+    },
+    "UALR": {
+        "abbreviation": "Little Rock",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2031.png&h=200&w=200"
+    },
+    "LBSU": {
+        "abbreviation": "Long Beach State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/299.png&h=200&w=200"
+    },
+    "LIU": {
+        "abbreviation": "Long Island",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/112358.png&h=200&w=200"
+    },
+    "LONG": {
+        "abbreviation": "Longwood",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2344.png&h=200&w=200"
+    },
+    "LA": {
+        "abbreviation": "Louisiana",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2348.png&h=200&w=200"
+    },
+    "LTU": {
+        "abbreviation": "Louisiana Tech",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2348.png&h=200&w=200"
+    },
+    "ULM": {
+        "abbreviation": "Louisiana-Monroe",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2545.png&h=200&w=200"
+    },
+    "U of L": {
+        "abbreviation": "Louisville",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/97.png&h=200&w=200"
+    },
+    "L-IL": {
+        "abbreviation": "Loyola (IL)",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2350.png&h=200&w=200"
+    },
+    "L-MD": {
+        "abbreviation": "Loyola (MD)",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2350.png&h=200&w=200"
+    },
+    "LMU": {
+        "abbreviation": "Loyola Marymount",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2351.png&h=200&w=200"
+    },
+    "LSU": {
+        "abbreviation": "LSU",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/99.png&h=200&w=200"
+    },
+    "UM": {
+        "abbreviation": "Ole Miss",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/145.png&h=200&w=200"
+    },
+    "MAN": {
+        "abbreviation": "Manhattan",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2363.png&h=200&w=200"
+    },
+    "MAR": {
+        "abbreviation": "Marist",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2368.png&h=200&w=200"
+    },
+    "MU": {
+        "abbreviation": "Monmouth",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2405.png&h=200&w=200"
+    },
+    "UMD": {
+        "abbreviation": "Maryland",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/120.png&h=200&w=200"
+    },
+    "UMES": {
+        "abbreviation": "Maryland-Eastern Shore",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2379.png&h=200&w=200"
+    },
+    "UMass": {
+        "abbreviation": "Massachusetts",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/183.png&h=200&w=200"
+    },
+    "MSU": {
+        "abbreviation": "Murray State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/93.png&h=200&w=200"
+    },
+    "MER": {
+        "abbreviation": "Mercer",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2382.png&h=200&w=200"
+    },
+    "MC": {
+        "abbreviation": "Merrimack College",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2771.png&h=200&w=200"
+    },
+    "MTSU": {
+        "abbreviation": "Middle Tennessee State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2393.png&h=200&w=200"
+    },
+    "UWM": {
+        "abbreviation": "Milwaukee",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/270.png&h=200&w=200"
+    },
+    "U of M": {
+        "abbreviation": "Minnesota",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/135.png&h=200&w=200"
+    },
+    "MVSU": {
+        "abbreviation": "Mississippi Valley State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2400.png&h=200&w=200"
+    },
+    "MSMU": {
+        "abbreviation": "Mount St. Mary's",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/116.png&h=200&w=200"
+    },
+    "NJIT": {
+        "abbreviation": "N.J.I.T.",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2653.png&h=200&w=200"
+    },
+    "USNA": {
+        "abbreviation": "Navy",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2426.png&h=200&w=200"
+    },
+    "NCST": {
+        "abbreviation": "NC State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&h=200&w=200"
+    },
+    "UNL": {
+        "abbreviation": "Nebraska",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=200&w=200"
+    },
+    "UNR": {
+        "abbreviation": "Nevada",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2440.png&h=200&w=200"
+    },
+    "UNH": {
+        "abbreviation": "New Hampshire",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/160.png&h=200&w=200"
+    },
+    "UNM": {
+        "abbreviation": "New Mexico",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/166.png&h=200&w=200"
+    },
+    "NMSU": {
+        "abbreviation": "New Mexico State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/166.png&h=200&w=200"
+    },
+    "UNO": {
+        "abbreviation": "Omaha",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2437.png&h=200&w=200"
+    },
+    "NU": {
+        "abbreviation": "Northwestern",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/77.png&h=200&w=200"
+    },
+    "NSU": {
+        "abbreviation": "Northwestern State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2466.png&h=200&w=200"
+    },
+    "UNA": {
+        "abbreviation": "North Alabama",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2453.png&h=200&w=200"
+    },
+    "UNC": {
+        "abbreviation": "Northern Colorado",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2458.png&h=200&w=200"
+    },
+    "NC A&T": {
+        "abbreviation": "North Carolina A&T",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2448.png&h=200&w=200"
+    },
+    "NCCU": {
+        "abbreviation": "North Carolina Central",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2428.png&h=200&w=200"
+    },
+    "UND": {
+        "abbreviation": "North Dakota",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/155.png&h=200&w=200"
+    },
+    "NDSU": {
+        "abbreviation": "North Dakota State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2449.png&h=200&w=200"
+    },
+    "UNF": {
+        "abbreviation": "North Florida",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2454.png&h=200&w=200"
+    },
+    "UNT": {
+        "abbreviation": "North Texas",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/249.png&h=200&w=200"
+    },
+    "NAU": {
+        "abbreviation": "Northern Arizona",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2464.png&h=200&w=200"
+    },
+    "NIU": {
+        "abbreviation": "Northern Illinois",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2459.png&h=200&w=200"
+    },
+    "UNI": {
+        "abbreviation": "Northern Iowa",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2460.png&h=200&w=200"
+    },
+    "NKU": {
+        "abbreviation": "Northern Kentucky",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/94.png&h=200&w=200"
+    },
+    "ND": {
+        "abbreviation": "Notre Dame",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/87.png&h=200&w=200"
+    },
+    "OU": {
+        "abbreviation": "Oklahoma",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=200&w=200"
+    },
+    "OSU": {
+        "abbreviation": "Oregon State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png&h=200&w=200"
+    },
+    "ODU": {
+        "abbreviation": "Old Dominion",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/295.png&h=200&w=200"
+    },
+    "ORU": {
+        "abbreviation": "Oral Roberts",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/198.png&h=200&w=200"
+    },
+    "UO": {
+        "abbreviation": "Oregon",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2483.png&h=200&w=200"
+    },
+    "PAC": {
+        "abbreviation": "Pacific",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/279.png&h=200&w=200"
+    },
+    "PSU": {
+        "abbreviation": "Portland State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2502.png&h=200&w=200"
+    },
+    "PENN": {
+        "abbreviation": "Pennsylvania",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/219.png&h=200&w=200"
+    },
+    "PU": {
+        "abbreviation": "Purdue",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=200&w=200"
+    },
+    "PITT": {
+        "abbreviation": "Pittsburgh",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/221.png&h=200&w=200"
+    },
+    "UP": {
+        "abbreviation": "Portland",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2502.png&h=200&w=200"
+    },
+    "PVAMU": {
+        "abbreviation": "Prairie View A&M",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2504.png&h=200&w=200"
+    },
+    "PC": {
+        "abbreviation": "Presbyterian",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2506.png&h=200&w=200"
+    },
+    "PRIN": {
+        "abbreviation": "Princeton",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/163.png&h=200&w=200"
+    },
+    "PROV": {
+        "abbreviation": "Providence",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2507.png&h=200&w=200"
+    },
+    "QUC": {
+        "abbreviation": "Queens University",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2511.png&h=200&w=200"
+    },
+    "QU": {
+        "abbreviation": "Quinnipiac",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2514.png&h=200&w=200"
+    },
+    "RU": {
+        "abbreviation": "Rutgers",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=200&w=200"
+    },
+    "URI": {
+        "abbreviation": "Rhode Island",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=200&w=200"
+    },
+    "RICH": {
+        "abbreviation": "Richmond",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/257.png&h=200&w=200"
+    },
+    "RMU": {
+        "abbreviation": "Robert Morris",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2523.png&h=200&w=200"
+    },
+    "CSUS": {
+        "abbreviation": "Sacramento State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/16.png&h=200&w=200"
+    },
+    "SHU": {
+        "abbreviation": "Seton Hall",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2550.png&h=200&w=200"
+    },
+    "SJU": {
+        "abbreviation": "Saint Joseph's",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2603.png&h=200&w=200"
+    },
+    "SLU": {
+        "abbreviation": "Saint Louis",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/139.png&h=200&w=200"
+    },
+    "SMC": {
+        "abbreviation": "Saint Mary's",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2608.png&h=200&w=200"
+    },
+    "SPC": {
+        "abbreviation": "Saint Peter's",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2612.png&h=200&w=200"
+    },
+    "SHSU": {
+        "abbreviation": "Sam Houston State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2534.png&h=200&w=200"
+    },
+    "SU": {
+        "abbreviation": "Syracuse",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/183.png&h=200&w=200"
+    },
+    "USD": {
+        "abbreviation": "South Dakota",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/233.png&h=200&w=200"
+    },
+    "SDSU": {
+        "abbreviation": "South Dakota State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2571.png&h=200&w=200"
+    },
+    "USF": {
+        "abbreviation": "South Florida",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/58.png&h=200&w=200"
+    },
+    "SJSU": {
+        "abbreviation": "San Jose State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/21.png&h=200&w=200"
+    },
+    "SCU": {
+        "abbreviation": "Santa Clara",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2541.png&h=200&w=200"
+    },
+    "SEA": {
+        "abbreviation": "Seattle",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2547.png&h=200&w=200"
+    },
+    "SC": {
+        "abbreviation": "Stonehill",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/284.png&h=200&w=200"
+    },
+    "SIUE": {
+        "abbreviation": "SIU-Edwardsville",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2565.png&h=200&w=200"
+    },
+    "USA": {
+        "abbreviation": "South Alabama",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/6.png&h=200&w=200"
+    },
+    "USC": {
+        "abbreviation": "USC",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/30.png&h=200&w=200"
+    },
+    "SCSU": {
+        "abbreviation": "South Carolina State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2569.png&h=200&w=200"
+    },
+    "SEMO": {
+        "abbreviation": "Southeast Missouri State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2546.png&h=200&w=200"
+    },
+    "SELU": {
+        "abbreviation": "Southeastern Louisiana",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2545.png&h=200&w=200"
+    },
+    "SUBR": {
+        "abbreviation": "Southern",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2127.png&h=200&w=200"
+    },
+    "SIU": {
+        "abbreviation": "Southern Illinois",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/79.png&h=200&w=200"
+    },
+    "USI": {
+        "abbreviation": "Southern Indiana",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/88.png&h=200&w=200"
+    },
+    "SMU": {
+        "abbreviation": "Southern Methodist",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/253.png&h=200&w=200"
+    },
+    "USM": {
+        "abbreviation": "Southern Mississippi",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/344.png&h=200&w=200"
+    },
+    "SUU": {
+        "abbreviation": "Southern Utah",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/253.png&h=200&w=200"
+    },
+    "STBN": {
+        "abbreviation": "St. Bonaventure",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/179.png&h=200&w=200"
+    },
+    "SFC": {
+        "abbreviation": "St. Francis (NY)",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2598.png&h=200&w=200"
+    },
+    "SFU": {
+        "abbreviation": "St. Francis (PA)",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2598.png&h=200&w=200"
+    },
+    "STJ": {
+        "abbreviation": "St. John's",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2599.png&h=200&w=200"
+    },
+    "UST": {
+        "abbreviation": "St. Thomas (MN)",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2900.png&h=200&w=200"
+    },
+    "SFA": {
+        "abbreviation": "Stephen F. Austin",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2617.png&h=200&w=200"
+    },
+    "STET": {
+        "abbreviation": "Stetson",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/56.png&h=200&w=200"
+    },
+    "SB": {
+        "abbreviation": "Stony Brook",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2619.png&h=200&w=200"
+    },
+    "TSU": {
+        "abbreviation": "Texas State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/326.png&h=200&w=200"
+    },
+    "TEM": {
+        "abbreviation": "Temple",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/218.png&h=200&w=200"
+    },
+    "UT": {
+        "abbreviation": "Utah Tech",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3101.png&h=200&w=200"
+    },
+    "TTU": {
+        "abbreviation": "Texas Tech",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2641.png&h=200&w=200"
+    },
+    "UTM": {
+        "abbreviation": "Tennessee-Martin",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2393.png&h=200&w=200"
+    },
+    "TAMU": {
+        "abbreviation": "Texas A&M",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/245.png&h=200&w=200"
+    },
+    "TAMUC": {
+        "abbreviation": "Texas A&M Commerce",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2837.png&h=200&w=200"
+    },
+    "TAMU-CC": {
+        "abbreviation": "Texas A&M-CC",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/245.png&h=200&w=200"
+    },
+    "TCU": {
+        "abbreviation": "Texas Christian",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2277.png&h=200&w=200"
+    },
+    "UTA": {
+        "abbreviation": "Texas-Arlington",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2627.png&h=200&w=200"
+    },
+    "UTRGV": {
+        "abbreviation": "Texas-RGV",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/249.png&h=200&w=200"
+    },
+    "UTSA": {
+        "abbreviation": "Texas-San Antonio",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/251.png&h=200&w=200"
+    },
+    "U of T": {
+        "abbreviation": "Toledo",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2649.png&h=200&w=200"
+    },
+    "TU": {
+        "abbreviation": "Tulsa",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&h=200&w=200"
+    },
+    "UAB": {
+        "abbreviation": "UAB",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/5.png&h=200&w=200"
+    },
+    "UCD": {
+        "abbreviation": "UC Davis",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/302.png&h=200&w=200"
+    },
+    "UCI": {
+        "abbreviation": "UC Irvine",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/300.png&h=200&w=200"
+    },
+    "UCR": {
+        "abbreviation": "UC Riverside",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/27.png&h=200&w=200"
+    },
+    "UCSD": {
+        "abbreviation": "UC San Diego",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/28.png&h=200&w=200"
+    },
+    "UCSB": {
+        "abbreviation": "UC Santa Barbara",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2540.png&h=200&w=200"
+    },
+    "UCF": {
+        "abbreviation": "UCF",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2116.png&h=200&w=200"
+    },
+    "UCLA": {
+        "abbreviation": "UCLA",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/26.png&h=200&w=200"
+    },
+    "UML": {
+        "abbreviation": "UMass Lowell",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2349.png&h=200&w=200"
+    },
+    "UMBC": {
+        "abbreviation": "UMBC",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2378.png&h=200&w=200"
+    },
+    "UMKC": {
+        "abbreviation": "UMKC",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/41.png&h=200&w=200"
+    },
+    "UNCA": {
+        "abbreviation": "UNC Asheville",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2427.png&h=200&w=200"
+    },
+    "UNCG": {
+        "abbreviation": "UNC Greensboro",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2430.png&h=200&w=200"
+    },
+    "UNCW": {
+        "abbreviation": "UNC Wilmington",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/350.png&h=200&w=200"
+    },
+    "UNLV": {
+        "abbreviation": "UNLV",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2439.png&h=200&w=200"
+    },
+    "USCU": {
+        "abbreviation": "USC Upstate",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2908.png&h=200&w=200"
+    },
+    "U of U": {
+        "abbreviation": "Utah",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/328.png&h=200&w=200"
+    },
+    "USU": {
+        "abbreviation": "Utah State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/328.png&h=200&w=200"
+    },
+    "UVU": {
+        "abbreviation": "Utah Valley",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3084.png&h=200&w=200"
+    },
+    "UTEP": {
+        "abbreviation": "UTEP",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2638.png&h=200&w=200"
+    },
+    "VAL": {
+        "abbreviation": "Valparaiso",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2674.png&h=200&w=200"
+    },
+    "VU": {
+        "abbreviation": "Vanderbilt",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/238.png&h=200&w=200"
+    },
+    "VCU": {
+        "abbreviation": "VCU",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2670.png&h=200&w=200"
+    },
+    "UVM": {
+        "abbreviation": "Vermont",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/261.png&h=200&w=200"
+    },
+    "VILL": {
+        "abbreviation": "Villanova",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png&h=200&w=200"
+    },
+    "UVA": {
+        "abbreviation": "Virginia",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/258.png&h=200&w=200"
+    },
+    "VMI": {
+        "abbreviation": "Virginia Military",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/258.png&h=200&w=200"
+    },
+    "VT": {
+        "abbreviation": "Virginia Tech",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/259.png&h=200&w=200"
+    },
+    "WC": {
+        "abbreviation": "Wofford",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2747.png&h=200&w=200"
+    },
+    "WF": {
+        "abbreviation": "Wake Forest",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/154.png&h=200&w=200"
+    },
+    "UW": {
+        "abbreviation": "Wyoming",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2751.png&h=200&w=200"
+    },
+    "WSU": {
+        "abbreviation": "Wichita State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2724.png&h=200&w=200"
+    },
+    "WVU": {
+        "abbreviation": "West Virginia",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/277.png&h=200&w=200"
+    },
+    "WCU": {
+        "abbreviation": "Western Carolina",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2717.png&h=200&w=200"
+    },
+    "WIU": {
+        "abbreviation": "Western Illinois",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2710.png&h=200&w=200"
+    },
+    "WKU": {
+        "abbreviation": "Western Kentucky",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/98.png&h=200&w=200"
+    },
+    "WMY": {
+        "abbreviation": "Western Michigan",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2711.png&h=200&w=200"
+    },
+    "W&M": {
+        "abbreviation": "William & Mary",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2729.png&h=200&w=200"
+    },
+    "WIN": {
+        "abbreviation": "Winthrop",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2737.png&h=200&w=200"
+    },
+    "WRST": {
+        "abbreviation": "Wright State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2750.png&h=200&w=200"
+    },
+    "XAV": {
+        "abbreviation": "Xavier",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2752.png&h=200&w=200"
+    },
+    "YALE": {
+        "abbreviation": "Yale",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/43.png&h=200&w=200"
+    },
+    "YSU": {
+        "abbreviation": "Youngstown State",
+        "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2754.png&h=200&w=200"
+    }
+}

@@ -1,0 +1,142 @@
+{
+  "CurrentUser": {
+			"userid": 0,
+			"username": "",
+			"password": "",
+			"joined_leagues": [],
+			"user_teams": []
+	},
+  "yourPlayers": [
+    { "id": 50, "name": "Player 50", "position": "Guard", "points": 45 },
+    { "id": 52, "name": "Player 52", "position": "Forward", "points": 45 },
+    { "id": 54, "name": "Player 54", "position": "Center", "points": 63 },
+    { "id": 55, "name": "Player 55", "position": "Guard", "points": 24 },
+    { "id": 57, "name": "Player 57", "position": "Forward", "points": 15 },
+    { "id": 58, "name": "Player 58", "position": "Forward", "points": 35 },
+    { "id": 59, "name": "Player 59", "position": "Center", "points": 23 },
+    { "id": 60, "name": "Player 60", "position": "Guard", "points": 45 }
+  ],
+  "Users": [
+		{
+			"userid": 1,
+			"username": "Mario#1",
+			"password": "password",
+			"joined_leagues": [1, 3, 4],
+			"user_teams": [1, 4, 104]
+		},
+		{
+			"userid": 2,
+			"username": "Yoshi",
+			"password": "password!",
+			"joined_leagues": [1, 3],
+			"user_teams": [5, 133]
+		},
+		{
+			"userid": 3,
+			"username": "Bowser",
+			"password": "GRRRRHHH",
+			"joined_leagues": [1, 3, 4],
+			"user_teams": [123, 432, 435]
+		}
+	],
+	"Leagues": [
+		{
+			"league_id": 1,
+			"league_name": "Super Sluggers",
+			"league_members": [1, 2, 3],
+			"league_teams": [1, 5, 123]
+		},
+		{
+			"league_id": 3,
+			"league_name": "Smash Bros",
+			"league_members": [1, 2, 3],
+			"league_teams": [4, 133, 432]
+		},
+		{
+			"league_id": 4,
+			"league_name": "Krazy Koopas",
+			"league_members": [1, 3],
+			"league_teams": [104, 435]
+		}
+	],
+	"Teams": [
+		{
+			"team_id": 1,
+			"team_name": "King Boo's Boners",
+			"players": [1, 2]
+		},
+		{
+			"team_id": 4,
+			"team_name": "Luigi's Boners",
+			"players": [1, 2]
+		},
+		{
+			"team_id": 5,
+			"team_name": "Wario's Boners",
+			"players": [3, 4]
+		},
+		{
+			"team_id": 104,
+			"team_name": "Daisey's Boners",
+			"players": [1, 2]
+		},
+		{
+			"team_id": 123,
+			"team_name": "Peach's Boners",
+			"players": [5, 6]
+		},
+		{
+			"team_id": 133,
+			"team_name": "The Boners",
+			"players": [3, 4]
+		},
+		{
+			"team_id": 432,
+			"team_name": "The Big Boners",
+			"players": [5, 6]
+		},
+		{
+			"team_id": 435,
+			"team_name": "King Boo's Better Boners",
+			"players": [3, 5]
+		}
+	],
+	"Players": [
+		{
+			"player_id": 1,
+			"name": "Funky Kong",
+			"school": "Rutgers",
+			"Position": "G"
+		},
+		{
+			"player_id": 2,
+			"name": "Rosalina",
+			"school": "Rutgers",
+			"Position": "F"
+		},
+		{
+			"player_id": 3,
+			"name": "Luma",
+			"school": "Rutgers",
+			"Position": "C"
+		},
+		{
+			"player_id": 4,
+			"name": "Bob-Omb",
+			"school": "Rutgers",
+			"Position": "G"
+		},
+		{
+			"player_id": 5,
+			"name": "Donkey Kong",
+			"school": "Rutgers",
+			"Position": "C"
+		},
+		{
+			"player_id": 6,
+			"name": "Baby Mario",
+			"school": "Rutgers",
+			"Position": "C"
+		}
+	]
+}

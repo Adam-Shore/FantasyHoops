@@ -1,0 +1,40 @@
+/* PlayerFilter.css */
+
+.player-filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.filter-label {
+  font-weight: bold;
+  margin-right: 10px;
+  color: #333;
+}
+
+.filter-select {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+}
+
+.filter-select option {
+  background-color: #fff;
+  color: #333;
+}
+
+.filter-select:hover,
+.filter-select:focus {
+  border-color: #999;
+}
+
+/* Add more styles as needed */
